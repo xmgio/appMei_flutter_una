@@ -1,6 +1,6 @@
 # app_micro
 
-A new Flutter project.
+Trabalho de Desenvolvimento web, mobile e jogos da UNA Contagem: aplicativo (em andamento) criado para MEI na linguagem flutter.
 
 ## Getting Started
 
